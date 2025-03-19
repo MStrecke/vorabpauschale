@@ -143,6 +143,7 @@ Der Wert, der zur Berechnung der Steuer herangezogen wird.
 # Offene Fragen
 
 * Was ist mit der Summe alter Vorabpauschalen, wenn für eine frühere Vorabpauschale wegen des Freibetrags keine Steuer gezahlt wurde?
+  * Antwort siehe (https://github.com/MStrecke/vorabpauschale/issues/1)
 
 # Links
 
